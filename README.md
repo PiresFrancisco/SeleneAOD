@@ -1,8 +1,7 @@
-# SeleneAOD
-Always on Display For the Xiaomi Redmi 10.
+# Always on Display For the Xiaomi Redmi 10.
 
 
-Tested in MIUI 13.0.6
+##Tested in MIUI 13.0.6 / MIUI 12.5.26
 
 
 Hello Everybody, after some testing I was finally able to make this work. Always on display for our beloved Xiaomi Redmi 10.
@@ -15,12 +14,9 @@ Unfortunatly It remains on all the time. The 10 second option is missing. And Du
 
 Sorry for my Bad English, I am from Portugal.
 
-
-
-
-		![Screenshot_2023-03-18-20-34-14-058_com miui aod](https://github.com/PiresFrancisco/SeleneAOD/assets/135015971/ff36cad0-b0e9-477d-863b-113ea394a618)
-![Screenshot_2023-03-18-20-34-07-447_com miui aod](https://github.com/PiresFrancisco/SeleneAOD/assets/135015971/a94b5b51-1ae4-4713-9c95-bdfd3688cece)
-
+![test]("https://github.com/PiresFrancisco/SeleneAOD/assets/135015971/ff36cad0-b0e9-477d-863b-113ea394a618")
+<img src="https://github.com/PiresFrancisco/SeleneAOD/assets/135015971/ff36cad0-b0e9-477d-863b-113ea394a618" width="10">
+		
 	
 
 
