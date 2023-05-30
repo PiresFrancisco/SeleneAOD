@@ -18,7 +18,9 @@ Sorry for my Bad English, I am from Portugal.
 
 
 
-		
+		![Screenshot_2023-03-18-20-34-14-058_com miui aod](https://github.com/PiresFrancisco/SeleneAOD/assets/135015971/ff36cad0-b0e9-477d-863b-113ea394a618)
+![Screenshot_2023-03-18-20-34-07-447_com miui aod](https://github.com/PiresFrancisco/SeleneAOD/assets/135015971/a94b5b51-1ae4-4713-9c95-bdfd3688cece)
+
 	
 
 
