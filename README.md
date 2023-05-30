@@ -14,8 +14,8 @@ Unfortunatly It remains on all the time. The 10 second option is missing. And Du
 
 Sorry for my Bad English, I am from Portugal.
 
-![test]("https://github.com/PiresFrancisco/SeleneAOD/assets/135015971/ff36cad0-b0e9-477d-863b-113ea394a618")
-<img src="https://github.com/PiresFrancisco/SeleneAOD/assets/135015971/ff36cad0-b0e9-477d-863b-113ea394a618" width="10">
+
+<img src="https://github.com/PiresFrancisco/SeleneAOD/assets/135015971/ff36cad0-b0e9-477d-863b-113ea394a618" width="48">
 		
 	
 
